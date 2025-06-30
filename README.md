@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Osmond Lee, a Chicagoan attending the University of Illinois Urbana-Champaign! My major is computer science, with a minor in Game Studies and Design. 
+I'm Osmond Lee, a native of Chicago's Chinatown attending the University of Illinois Urbana-Champaign! My major is computer science, with a minor in Game Studies and Design. 
 
 (I would put a banner here but it didn't work so 🤷‍♂️)
 
