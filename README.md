@@ -9,6 +9,6 @@ My first journey in tech started with the humble Nintendo Wii, and a lot of my e
 ### Some of my passions right now include
 
 - 🎮 Game Development 🎮
-- 🏆 Valorant Competitive E-Sports 🏆
+- 🏆 E-Sports 🏆
 - 🥢 Cooking Food 🥢
 - 💭 Game Design Psychology 💭
