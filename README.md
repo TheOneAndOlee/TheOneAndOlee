@@ -10,9 +10,9 @@ My first journey in tech started with the humble Nintendo Wii, and a lot of my y
 
 ### Skills
 
-⚙️ **Game Engines** : Godot, Unreal Engine 5, Unity
-⌨️ **Programming Languages** : C++, C#, GDscript, Kotlin, Python
-🔧 **Tools and Workflows** : Git/GitHub, Linux, OpenFOAM, Paraview
+⚙️ **Game Engines**: Godot, Unreal Engine 5, Unity  
+⌨️ **Programming Languages**: C++, C#, GDscript, Kotlin, Python  
+🔧 **Tools and Workflows**: Git/GitHub, Linux, OpenFOAM, Paraview
 
 ---
 
