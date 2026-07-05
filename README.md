@@ -2,13 +2,22 @@
 
 I'm Osmond Lee, a native of Chicago's Chinatown attending the University of Illinois Urbana-Champaign! My major is computer science, with a minor in Game Studies and Design. 
 
-(I would put a banner here but it didn't work so 🤷‍♂️)
+<img width="1700" height="460" alt="github-header-banner(1)" src="https://github.com/user-attachments/assets/0fa57cf9-23a1-4c7d-a5a3-d2f97a027e3b" />
 
-My first journey in tech started with the humble Nintendo Wii, and a lot of my earliest years were spent playing Lego Batman. From there, I fell in love with games and the devices we play them on, and while I don't know a whole lot right now, I'm always learning new things! 
+My first journey in tech started with the humble Nintendo Wii, and a lot of my younger years were spent playing games like Lego Batman and Pokemon X. From there, I fell in love with designing and making games! I'm always down to learn new technologies and expand my repertoire!
 
-### Some of my passions right now include
+---
 
-- 🎮 Game Development 🎮
-- 🏆 E-Sports 🏆
+### Skills
+
+⚙️ **Game Engines** : Godot, Unreal Engine 5, Unity
+⌨️ **Programming Languages** : C++, C#, GDscript, Kotlin, Python
+🔧 **Tools and Workflows** : Git/GitHub, Linux, OpenFOAM, Paraview
+
+---
+
+### My biggest non-coding interests right now
+
+- 🏆 Tac-FPS E-Sports (Valorant, CS2, Overwatch) 🏆
 - 🥢 Cooking Food 🥢
 - 💭 Game Design Psychology 💭
